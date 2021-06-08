@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/css/main.7f904051.chunk.css",
+    "main.js": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/js/main.312a0bdb.chunk.js",
+    "main.js.map": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/js/main.312a0bdb.chunk.js.map",
+    "runtime-main.js": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/js/runtime-main.2aa809d8.js",
+    "runtime-main.js.map": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/js/runtime-main.2aa809d8.js.map",
+    "static/js/2.68f56c50.chunk.js": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/js/2.68f56c50.chunk.js",
+    "static/js/2.68f56c50.chunk.js.map": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/js/2.68f56c50.chunk.js.map",
+    "index.html": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/index.html",
+    "precache-manifest.97cbbbb4ffd03d69d429c44fc77765b2.js": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/precache-manifest.97cbbbb4ffd03d69d429c44fc77765b2.js",
+    "service-worker.js": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/service-worker.js",
+    "static/css/main.7f904051.chunk.css.map": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/css/main.7f904051.chunk.css.map",
+    "static/js/2.68f56c50.chunk.js.LICENSE.txt": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/js/2.68f56c50.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "https://cdn.jsdelivr.net/gh/qwer2714856/test-travis-ci@gh-pages/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2aa809d8.js",
+    "static/js/2.68f56c50.chunk.js",
+    "static/css/main.7f904051.chunk.css",
+    "static/js/main.312a0bdb.chunk.js"
+  ]
+}
